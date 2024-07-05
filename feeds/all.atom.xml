@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Sudio Cà phê</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2015-04-22T15:19:00+02:00</updated><entry><title>Test</title><link href="/blog/2015/04/22/test/" rel="alternate"></link><published>2015-04-22T15:19:00+02:00</published><updated>2015-04-22T15:19:00+02:00</updated><author><name>Lan Cà phê</name></author><id>tag:None,2015-04-22:/blog/2015/04/22/test/</id><content type="html">&lt;h1&gt;Ceci n'est pas un test&lt;/h1&gt;
+&lt;p&gt;Yes we Pelican !&lt;/p&gt;</content><category term="misc"></category></entry></feed>
