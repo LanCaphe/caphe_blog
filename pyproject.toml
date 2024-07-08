@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "caphe-blog"
+version = "0.1.0"
+description = ""
+authors = ["Tô Thanh Lan <thanh.lan.doublier@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pelican = "^4.9.1"
+markdown = "^3.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
